@@ -18,6 +18,16 @@ The `Array` folder contains fundamental operations and concepts related to 1D an
 | [`PointersInArray.c`](Array/PointersInArray.c) | Exploring the relationship between arrays and pointers in C. |
 | [`Pointersin2DArray.c`](Array/Pointersin2DArray.c) | Advanced concepts covering pointer arithmetic with 2D arrays. |
 
+### 2. Linked List
+The `Linked List` folder contains implementations of various types of linked lists.
+
+| Folder | Description |
+|---|---|
+| [`SingleLinkedList`](Linked%20List/SingleLinkedList) | Implementation of a singly linked list and its operations (like insertion). |
+| [`DoublyLinekdList`](Linked%20List/DoublyLinekdList) | Implementation of a doubly linked list. |
+| [`CircularLinkedList`](Linked%20List/CircularLinkedList) | Implementation of a circular linked list. |
+| [`DoublyCircularLinkedList`](Linked%20List/DoublyCircularLinkedList) | Implementation of a doubly circular linked list. |
+
 ---
 
 ## 🛠️ How to Compile and Run
