@@ -21,12 +21,28 @@ The `Array` folder contains fundamental operations and concepts related to 1D an
 ### 2. Linked List
 The `Linked List` folder contains implementations of various types of linked lists.
 
-| Folder | Description |
+#### [Single Linked List](Linked%20List/SingleLinkedList)
+| Program | Description |
 |---|---|
-| [`SingleLinkedList`](Linked%20List/SingleLinkedList) | Implementation of a singly linked list and its operations (like insertion). |
-| [`DoublyLinekdList`](Linked%20List/DoublyLinekdList) | Implementation of a doubly linked list. |
-| [`CircularLinkedList`](Linked%20List/CircularLinkedList) | Implementation of a circular linked list. |
-| [`DoublyCircularLinkedList`](Linked%20List/DoublyCircularLinkedList) | Implementation of a doubly circular linked list. |
+| [`Implementation.c`](Linked%20List/SingleLinkedList/Implementation.c) | Basic implementation of a singly linked list. |
+| [`InsertionOfNode.c`](Linked%20List/SingleLinkedList/InsertionOfNode.c) | Insertion of a node at various positions. |
+| [`DeletionOfNode.c`](Linked%20List/SingleLinkedList/DeletionOfNode.c) | Deletion of a node from various positions. |
+| [`LengthOfLinkedList.c`](Linked%20List/SingleLinkedList/LengthOfLinkedList.c) | Find the length of a singly linked list. |
+| [`ReverseALinkedList.c`](Linked%20List/SingleLinkedList/ReverseALinkedList.c) | Reverse a singly linked list. |
+
+#### [Doubly Linked List](Linked%20List/DoublyLinekdList)
+| Program | Description |
+|---|---|
+| [`Implementation.c`](Linked%20List/DoublyLinekdList/Implementation.c) | Basic implementation of a doubly linked list. |
+| [`InsertionOfNode.c`](Linked%20List/DoublyLinekdList/InsertionOfNode.c) | Insertion of a node at various positions. |
+| [`DeletionOfNode.c`](Linked%20List/DoublyLinekdList/DeletionOfNode.c) | Deletion of a node from various positions. |
+| [`Reverse.c`](Linked%20List/DoublyLinekdList/Reverse.c) | Reverse a doubly linked list. |
+
+#### [Circular Linked List](Linked%20List/CircularLinkedList)
+*Files will be added here.*
+
+#### [Doubly Circular Linked List](Linked%20List/DoublyCircularLinkedList)
+*Files will be added here.*
 
 ---
 
