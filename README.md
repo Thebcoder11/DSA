@@ -75,6 +75,13 @@ The `Linked List` section dives deep into dynamic memory allocation, providing r
 | [`Deletion.c`](Linked%20List/DoublyCircularLinkedList/Deletion.c) | Node deletion in a doubly circular linked structure. |
 | [`Reverse.c`](Linked%20List/DoublyCircularLinkedList/Reverse.c) | Reversing the doubly circular linked list. |
 
+<br>
+
+### 3️⃣ Stack
+The `Stack` module will cover implementations of the LIFO (Last-In-First-Out) data structure using arrays and linked lists.
+
+*(More programs coming soon!)*
+
 ---
 
 ## 🛠️ How to Compile and Run
