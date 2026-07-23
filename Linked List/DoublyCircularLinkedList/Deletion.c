@@ -122,11 +122,26 @@ void deletefrompos(){
 int main(){
     createalinkedlist();
     print();
-    deletefromstart();
-    print();
-    deletefromend();
-    print();
-    deletefrompos();
-    print();
+    int choose;
+    printf("Press 1 if you want to delete from start\n");
+    printf("Press 2 if you want to delete from end\n");
+    printf("Press 3 if you want to delete from any position\n")
+    printf("Enter your choice : ");
+    scanf("%d",&choose);
+    if(choose ==1){
+        deletefromstart();  
+        print();
+    }
+    else if(choose ==2){
+        deletefromend();
+        print();
+    }
+    else if(choose ==3){
+        deletefrompos();
+        print();
+    }
+    else{
+        printf("Inavlid position\n");
+    }
     return 0;
 }

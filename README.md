@@ -73,6 +73,7 @@ The `Linked List` section dives deep into dynamic memory allocation, providing r
 | [`Implementation.c`](Linked%20List/DoublyCircularLinkedList/Implementation.c) | Complex pointer management for a two-way circular structure. |
 | [`InsertionOfNode.c`](Linked%20List/DoublyCircularLinkedList/InsertionOfNode.c) | Advanced insertion logic handling both direction and circularity. |
 | [`Deletion.c`](Linked%20List/DoublyCircularLinkedList/Deletion.c) | Node deletion in a doubly circular linked structure. |
+| [`Reverse.c`](Linked%20List/DoublyCircularLinkedList/Reverse.c) | Reversing the doubly circular linked list. |
 
 ---
 
