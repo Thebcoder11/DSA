@@ -30,6 +30,7 @@ void createalinkedlist(){
             newnode -> next = head;
             tail -> next = newnode;
             tail = newnode;
+            head->prev = newnode;
         }
         printf("Do you want to continue Press 1 : ");
         scanf("%d",&choose);
