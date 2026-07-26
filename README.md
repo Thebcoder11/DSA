@@ -80,8 +80,10 @@ The `Linked List` section dives deep into dynamic memory allocation, providing r
 ### 3️⃣ Stack
 The `Stack` module will cover implementations of the LIFO (Last-In-First-Out) data structure using arrays and linked lists.
 
-*(More programs coming soon!)*
-
+| 📄 Program | 📝 Description |
+|:---|:---|
+| [`ImplementationUsingArray.c`](Stack/ImplementationUsingArray.c) | Implementation of Stack using an Array. |
+| [`ImplementationUsingLinkedList.c`](Stack/ImplementationUsingLinkedList.c) | Implementation of Stack using a Linked List. |
 ---
 
 ## 🛠️ How to Compile and Run
