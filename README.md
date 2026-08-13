@@ -84,6 +84,20 @@ The `Stack` module will cover implementations of the LIFO (Last-In-First-Out) da
 |:---|:---|
 | [`ImplementationUsingArray.c`](Stack/ImplementationUsingArray.c) | Implementation of Stack using an Array. |
 | [`ImplementationUsingLinkedList.c`](Stack/ImplementationUsingLinkedList.c) | Implementation of Stack using a Linked List. |
+
+<br>
+
+### 4️⃣ Queue
+The `Queue` module covers implementations of the FIFO (First-In-First-Out) data structure and its variants.
+
+| 📄 Program | 📝 Description |
+|:---|:---|
+| [`ImplementationUsingArray.c`](Queue/ImplementationUsingArray.c) | Implementation of a linear Queue using an Array. |
+| [`ImplementationUsingLinkedList.c`](Queue/ImplementationUsingLinkedList.c) | Implementation of a linear Queue using a Linked List. |
+| [`ImplementationUsingStack.c`](Queue/ImplementationUsingStack.c) | Implementation of a Queue using two Stacks. |
+| [`CircularQueueUsingArray.c`](Queue/CircularQueueUsingArray.c) | Implementation of a Circular Queue using an Array. |
+| [`CircularQueueUsingLinkedList.c`](Queue/CircularQueueUsingLinkedList.c) | Implementation of a Circular Queue using a Linked List. |
+| [`ImplementationOfDeque.c`](Queue/ImplementationOfDeque.c) | Implementation of a Double-ended Queue (Deque). |
 ---
 
 ## 🛠️ How to Compile and Run
