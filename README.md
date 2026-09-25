@@ -98,6 +98,25 @@ The `Queue` module covers implementations of the FIFO (First-In-First-Out) data 
 | [`CircularQueueUsingArray.c`](Queue/CircularQueueUsingArray.c) | Implementation of a Circular Queue using an Array. |
 | [`CircularQueueUsingLinkedList.c`](Queue/CircularQueueUsingLinkedList.c) | Implementation of a Circular Queue using a Linked List. |
 | [`ImplementationOfDeque.c`](Queue/ImplementationOfDeque.c) | Implementation of a Double-ended Queue (Deque). |
+
+<br>
+
+### 5️⃣ Searching and Sorting
+The `Searching and Sorting` module covers fundamental algorithms for searching elements and sorting data.
+
+| 📄 Program | 📝 Description |
+|:---|:---|
+| [`LinearSearch.c`](Searching%20and%20Sorting/LinearSearch.c) | Implementation of the Linear Search algorithm. |
+
+<br>
+
+### 6️⃣ Tree
+The `Tree` module explores hierarchical data structures and their traversals.
+
+| 📄 Program | 📝 Description |
+|:---|:---|
+| [`BinaryTreeTraversal.c`](Tree/BinaryTreeTraversal.c) | Implementation of Binary Tree traversals (Inorder, Preorder, Postorder). |
+
 ---
 
 ## 🛠️ How to Compile and Run
