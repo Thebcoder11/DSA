@@ -107,6 +107,7 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | 📄 Program | 📝 Description |
 |:---|:---|
 | [`LinearSearch.c`](Searching%20and%20Sorting/LinearSearch.c) | Implementation of the Linear Search algorithm. |
+| [`BinarySearch.c`](Searching%20and%20Sorting/BinarySearch.c) | Implementation of the Binary Search algorithm. |
 | [`BubbleSort.c`](Searching%20and%20Sorting/BubbleSort.c) | Implementation of the Bubble Sort algorithm. |
 | [`BubbleSortDescending.c`](Searching%20and%20Sorting/BubbleSortDescending.c) | Implementation of the Bubble Sort algorithm in descending order. |
 
@@ -118,6 +119,7 @@ The `Tree` module explores hierarchical data structures and their traversals.
 | 📄 Program | 📝 Description |
 |:---|:---|
 | [`BinaryTreeTraversal.c`](Tree/BinaryTreeTraversal.c) | Implementation of Binary Tree traversals (Inorder, Preorder, Postorder). |
+| [`ImplementationOfBinaryTree.c`](Tree/ImplementationOfBinaryTree.c) | Core implementation of a Binary Tree. |
 
 ---
 
