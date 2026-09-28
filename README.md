@@ -110,6 +110,8 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | [`BinarySearch.c`](Searching%20and%20Sorting/BinarySearch.c) | Implementation of the Binary Search algorithm. |
 | [`BubbleSort.c`](Searching%20and%20Sorting/BubbleSort.c) | Implementation of the Bubble Sort algorithm. |
 | [`BubbleSortDescending.c`](Searching%20and%20Sorting/BubbleSortDescending.c) | Implementation of the Bubble Sort algorithm in descending order. |
+| [`InsertionSort.c`](Searching%20and%20Sorting/InsertionSort.c) | Implementation of the Insertion Sort algorithm. |
+| [`InsertionSortDescending.c`](Searching%20and%20Sorting/InsertionSortDescending.c) | Implementation of the Insertion Sort algorithm in descending order. |
 
 <br>
 
