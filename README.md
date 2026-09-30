@@ -114,6 +114,11 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | [`InsertionSortDescending.c`](Searching%20and%20Sorting/InsertionSortDescending.c) | Implementation of the Insertion Sort algorithm in descending order. |
 | [`SelectionSort.c`](Searching%20and%20Sorting/SelectionSort.c) | Implementation of the Selection Sort algorithm. |
 | [`SelectionSortDescending.c`](Searching%20and%20Sorting/SelectionSortDescending.c) | Implementation of the Selection Sort algorithm in descending order. |
+| [`QuickSort.c`](Searching%20and%20Sorting/QuickSort.c) | Implementation of the Quick Sort algorithm. |
+| [`QuickSortDescending.c`](Searching%20and%20Sorting/QuickSortDescending.c) | Implementation of the Quick Sort algorithm in descending order. |
+| [`QuickSortLastPivot.c`](Searching%20and%20Sorting/QuickSortLastPivot.c) | Implementation of the Quick Sort algorithm using the last element as pivot. |
+| [`QuickSortLastPivotDescending.c`](Searching%20and%20Sorting/QuickSortLastPivotDescending.c) | Implementation of the Quick Sort algorithm using the last element as pivot in descending order. |
+| [`MergeSort.c`](Searching%20and%20Sorting/MergeSort.c) | Implementation of the Merge Sort algorithm. |
 
 <br>
 
