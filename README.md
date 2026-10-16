@@ -152,6 +152,8 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | [`QuickSortLastPivotDescending.c`](Searching%20and%20Sorting/QuickSortLastPivotDescending.c) | Implementation of the Quick Sort algorithm using the last element as pivot in descending order. |
 | [`MergeSort.c`](Searching%20and%20Sorting/MergeSort.c) | Implementation of the Merge Sort algorithm. |
 | [`MergeSortDescending.c`](Searching%20and%20Sorting/MergeSortDescending.c) | Implementation of the Merge Sort algorithm in descending order. |
+| [`ShellSort.c`](Searching%20and%20Sorting/ShellSort.c) | Implementation of the Shell Sort algorithm. |
+| [`ShellSortDescending.c`](Searching%20and%20Sorting/ShellSortDescending.c) | Implementation of the Shell Sort algorithm in descending order. |
 | [`MaxHeap.c`](Searching%20and%20Sorting/MaxHeap.c) | Implementation of Max Heap insertion and deletion operations. |
 | [`MaxHeapify.c`](Searching%20and%20Sorting/MaxHeapify.c) | Implementation of Max Heap building using heapify and deletion operations. |
 | [`MinHeap.c`](Searching%20and%20Sorting/MinHeap.c) | Implementation of Min Heap insertion and deletion operations. |
