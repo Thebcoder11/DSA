@@ -152,6 +152,8 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | [`QuickSortLastPivotDescending.c`](Searching%20and%20Sorting/QuickSortLastPivotDescending.c) | Implementation of the Quick Sort algorithm using the last element as pivot in descending order. |
 | [`MergeSort.c`](Searching%20and%20Sorting/MergeSort.c) | Implementation of the Merge Sort algorithm. |
 | [`MergeSortDescending.c`](Searching%20and%20Sorting/MergeSortDescending.c) | Implementation of the Merge Sort algorithm in descending order. |
+| [`MaxHeap.c`](Searching%20and%20Sorting/MaxHeap.c) | Implementation of Max Heap insertion and deletion operations. |
+
 
 <br>
 
