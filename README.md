@@ -153,6 +153,9 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | [`MergeSort.c`](Searching%20and%20Sorting/MergeSort.c) | Implementation of the Merge Sort algorithm. |
 | [`MergeSortDescending.c`](Searching%20and%20Sorting/MergeSortDescending.c) | Implementation of the Merge Sort algorithm in descending order. |
 | [`MaxHeap.c`](Searching%20and%20Sorting/MaxHeap.c) | Implementation of Max Heap insertion and deletion operations. |
+| [`MaxHeapify.c`](Searching%20and%20Sorting/MaxHeapify.c) | Implementation of Max Heap building using heapify and deletion operations. |
+| [`MinHeap.c`](Searching%20and%20Sorting/MinHeap.c) | Implementation of Min Heap insertion and deletion operations. |
+| [`MinHeapify.c`](Searching%20and%20Sorting/MinHeapify.c) | Implementation of Min Heap building using heapify and deletion operations. |
 
 
 <br>
