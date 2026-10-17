@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Structures%20%26%20Algorithms&fontSize=50&animation=fadeIn" alt="DSA Banner">
+  <img src="./assets/banner.svg" alt="DSA Banner" width="100%">
 
   # 🚀 Master Data Structures & Algorithms in C
   
@@ -154,6 +154,8 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | [`MergeSortDescending.c`](Searching%20and%20Sorting/MergeSortDescending.c) | Implementation of the Merge Sort algorithm in descending order. |
 | [`ShellSort.c`](Searching%20and%20Sorting/ShellSort.c) | Implementation of the Shell Sort algorithm. |
 | [`ShellSortDescending.c`](Searching%20and%20Sorting/ShellSortDescending.c) | Implementation of the Shell Sort algorithm in descending order. |
+| [`CountingSort.c`](Searching%20and%20Sorting/CountingSort.c) | Implementation of the Counting Sort algorithm. |
+| [`CountSortDescending.c`](Searching%20and%20Sorting/CountSortDescending.c) | Implementation of the Counting Sort algorithm in descending order. |
 | [`MaxHeap.c`](Searching%20and%20Sorting/MaxHeap.c) | Implementation of Max Heap insertion and deletion operations. |
 | [`MaxHeapify.c`](Searching%20and%20Sorting/MaxHeapify.c) | Implementation of Max Heap building using heapify and deletion operations. |
 | [`MinHeap.c`](Searching%20and%20Sorting/MinHeap.c) | Implementation of Min Heap insertion and deletion operations. |
@@ -189,7 +191,7 @@ gcc Array/Declaration.c -o output
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" alt="Footer Wave" width="100%"/>
   <br>
   <b>Happy Coding! 💻🚀</b> <br>
   <i>If you found this repository helpful, consider giving it a ⭐!</i>
