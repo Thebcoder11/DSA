@@ -156,6 +156,8 @@ The `Searching and Sorting` module covers fundamental algorithms for searching e
 | [`ShellSortDescending.c`](Searching%20and%20Sorting/ShellSortDescending.c) | Implementation of the Shell Sort algorithm in descending order. |
 | [`CountingSort.c`](Searching%20and%20Sorting/CountingSort.c) | Implementation of the Counting Sort algorithm. |
 | [`CountSortDescending.c`](Searching%20and%20Sorting/CountSortDescending.c) | Implementation of the Counting Sort algorithm in descending order. |
+| [`RadixSort.c`](Searching%20and%20Sorting/RadixSort.c) | Implementation of the Radix Sort algorithm. |
+| [`RadixSortDescending.c`](Searching%20and%20Sorting/RadixSortDescending.c) | Implementation of the Radix Sort algorithm in descending order. |
 | [`MaxHeap.c`](Searching%20and%20Sorting/MaxHeap.c) | Implementation of Max Heap insertion and deletion operations. |
 | [`MaxHeapify.c`](Searching%20and%20Sorting/MaxHeapify.c) | Implementation of Max Heap building using heapify and deletion operations. |
 | [`MinHeap.c`](Searching%20and%20Sorting/MinHeap.c) | Implementation of Min Heap insertion and deletion operations. |
