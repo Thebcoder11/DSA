@@ -20,7 +20,7 @@ Whether you're preparing for technical interviews, brushing up on your basics, o
 ### ✨ Highlights
 - 🧠 **Clear Implementations**: Focus on readability and standard practices.
 - ⚡ **Optimized Code**: Written for maximum efficiency.
-- 🧩 **Comprehensive Coverage**: From simple Arrays to complex Trees and advanced Sorting.
+- 🧩 **Comprehensive Coverage**: From simple Arrays to complex Trees, Sorting, and Dynamic Programming.
 
 ---
 
@@ -31,6 +31,7 @@ Whether you're preparing for technical interviews, brushing up on your basics, o
 - [4️⃣ Queues](#4️⃣-queue)
 - [5️⃣ Searching and Sorting](#5️⃣-searching-and-sorting)
 - [6️⃣ Trees](#6️⃣-tree)
+- [7️⃣ Dynamic Programming](#7️⃣-dynamic-programming)
 - [🛠️ How to Compile and Run](#🛠️-how-to-compile-and-run)
 
 ---
@@ -173,6 +174,18 @@ The `Tree` module explores hierarchical data structures and their traversals.
 |:---|:---|
 | [`BinaryTreeTraversal.c`](Tree/BinaryTreeTraversal.c) | Implementation of Binary Tree traversals (Inorder, Preorder, Postorder). |
 | [`ImplementationOfBinaryTree.c`](Tree/ImplementationOfBinaryTree.c) | Core implementation of a Binary Tree. |
+
+<br>
+
+### 7️⃣ Dynamic Programming
+The `Dynamic Programming` module covers optimal substructure and overlapping subproblems using memoization (top-down) and tabulation (bottom-up).
+
+| 📄 Program | 📝 Description |
+|:---|:---|
+| [`FibonacciTopDown.c`](Dynamic%20Programming/FibonacciTopDown.c) | Top-Down (Memoization) approach to compute Fibonacci numbers. |
+| [`FibonacciButtomUp.c`](Dynamic%20Programming/FibonacciButtomUp.c) | Bottom-Up (Tabulation/Space-Optimized) approach to compute Fibonacci numbers. |
+| [`ClimbingNStairs.c`](Dynamic%20Programming/ClimbingNStairs.c) | Dynamic programming solution to count total ways to climb $n$ stairs. |
+| [`MinCostClimbingStairs.c`](Dynamic%20Programming/MinCostClimbingStairs.c) | Recursive/DP approach to compute minimum cost climbing stairs. |
 
 ---
 
